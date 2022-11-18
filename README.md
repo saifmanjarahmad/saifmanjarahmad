@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Database Management, Python
 - 🤔 I’m looking for help with AWS, Bash
 - 💬 Ask me about Android Development, Python
-- 📫 How to reach me: [Facebook] (www.facebook.com/saifmanjarahmad) [Linkedin] (www.linkedin.com/in/saifmanjarahmad/) [Gmail] (saifahmad1135@gmail.com)
+- 📫 How to reach me:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Failing is fun sometimes :D
 -->
