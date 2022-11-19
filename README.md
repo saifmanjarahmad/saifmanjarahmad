@@ -12,7 +12,7 @@
   <a href="https://mail.google.com/mail/u/saifahmad1135@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://instagram.com/saifmanjarahmad" target="_blank">
+  <a href="https://www.instagram.com/saif_manjar_ahmad/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style=margin-bottom: 5px;" />
 </a>  
 </div>
