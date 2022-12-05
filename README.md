@@ -37,9 +37,9 @@
 - 🌱 I’m currently learning Node.js, React js, MongoDB
 - 👯 I’m looking to collaborate on Database Management, Python
 - 🤔 I’m looking for help with AWS, Bash
-- 💬 Ask me about Android Development, Python
+- 💬 Ask me about Android Development, Python, MySQL
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: No need to be serious in this short life
+- ⚡ Fun fact: Your tongue won't reach your elbow.
 
 
 <h3 align="left">Languages and Tools:</h3>
