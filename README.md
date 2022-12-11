@@ -35,7 +35,7 @@
   
  - 🔭 I’m currently working on Python, Database Management, Machine Learning
 - 🌱 I’m currently learning Node.js, React js, MongoDB
-- 👯 I’m looking to collaborate on Database Management, Python
+- 👯 I’m looking to collaborate on Database Management, Python and Machine Learning
 - 🤔 I’m looking for help with AWS, Bash
 - 💬 Ask me about Android Development, Python, MySQL
 - 😄 Pronouns: He/His
